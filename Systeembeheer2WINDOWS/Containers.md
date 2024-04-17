@@ -14,6 +14,6 @@
 
 -username: root
 
--password: aurora123
+-password: aurora123!
 
 -use connect to server in vmware workstation with the previous ip and user/password, then you'll have acces to the 3 vm's.
