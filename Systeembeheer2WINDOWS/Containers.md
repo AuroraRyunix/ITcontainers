@@ -1,4 +1,4 @@
-## ALL of the containers are ESXI 7.0n3 based
+## ALL of the containers are ESXI 6.7U3B based
 ## 1) DNS, networklabo
 (note: ubuntu has been replaced with debian)
 
